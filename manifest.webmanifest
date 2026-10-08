@@ -1,0 +1,17 @@
+{
+  "name": "一年级学习工作台",
+  "short_name": "学习工作台",
+  "description": "小学生每日学习工作台：语文、数学、英语、运动、游戏、积分打卡",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#bfe9ff",
+  "theme_color": "#ff9f43",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
